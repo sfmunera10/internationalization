@@ -1,0 +1,13 @@
+{
+	"Position": "Nombre del cargo",
+	"Company": "Empresa",
+	"Salary": "Salario",
+	"City": "Ciudad",
+	"PublicationDate": "Fecha de publicación",
+	"Views": "No. Visitas",
+	"Manager":"Gerente",
+	"SoftwareEngineer":"Ingeniero de Software",
+	"Nurse":"Enfermero",
+	"Million":"Millón",
+	"Millions":"Millones"
+}
